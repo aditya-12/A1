@@ -1,16 +1,36 @@
-# React + Vite
+# 🎯 Assignment-2 Counter Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple **React Counter Application** demonstrating the use of both **Class Components** and **Functional Components**.  
+Each component includes increment and decrement functionality, with the counter value restricted from going below zero.  
 
-Currently, two official plugins are available:
+The project also showcases a clean and responsive UI built using **Tailwind CSS**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🧱 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Developed using **React** and **Tailwind CSS**  
+- Both **Class Component** and **Function Component** used  
+- Attractive and modern UI  
+- Responsive layout (shows both counters in a row)  
+- Counter value cannot go below zero  
+- Interactive buttons with hover animations  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🚀 Live Deployment
+
+You can view the live deployed application using the link below:
+
+🔗 **Vercel Deployment Link:** [https://a1-zeta-ten.vercel.app/](https://your-app-name.vercel.app)
+
+> _(Replace the above link with your actual deployed app URL once deployed.)_
+
+---
+
+## 🧩 How to Run Locally
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/your-username/counter-application.git

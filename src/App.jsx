@@ -11,15 +11,6 @@ function App() {
         Assignment-2 Counter Application
       </h1>
       </header>
-      {/* <div className="flex flex-row gap-10">
-        <div className="text-center p-6 bg-gray-800 rounded-2xl w-72 shadow-lg ">
-          <h2 className="text-xl font-semibold mb-4 text-white-400">Class Component</h2>
-          <CounterClass />
-        </div>
-      <div className="text-center p-6 bg-gray-800 rounded-2xl w-72 shadow-lg">
-        <h2 className="text-xl font-semibold mb-4 text-white-400">Function Component</h2>
-        <CounterFunction />
-      </div> */}
       <main className="flex flex-col md:flex-row justify-center items-start gap-12 mt-4">
         {/* Class Component */}
         <section className="flex flex-col items-center">
@@ -45,5 +36,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
