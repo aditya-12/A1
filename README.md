@@ -23,7 +23,7 @@ The project also showcases a clean and responsive UI built using **Tailwind CSS*
 
 You can view the live deployed application using the link below:
 
-🔗 **Vercel Deployment Link:** [https://a1-zeta-ten.vercel.app/](https://your-app-name.vercel.app)
+🔗 **Vercel Deployment Link:** [https://a1-zeta-ten.vercel.app/](https://a1-zeta-ten.vercel.app)
 
 > _(Replace the above link with your actual deployed app URL once deployed.)_
 
